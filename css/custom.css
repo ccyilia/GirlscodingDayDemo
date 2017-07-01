@@ -1,13 +1,6 @@
-.photowall{
+photowall1,photowall3,photowall4,photowall5,photowall6,photowall11,photowall12,photowall13,photowall14,photowall18{
   text-align:center;
   margin:0 auto;
   position:relative;
-  width: 100%;
-  height: 1000px}
-p{
-  width: 100%;
-  text-align:right;
-}
-img{
-  width: 300px;
-}
+  width: 31%;
+  height: 100%}
