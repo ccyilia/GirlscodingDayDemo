@@ -2,16 +2,16 @@ img{
 width: 300px
 }
 .image-wrapper{
+  position:relative;
   padding-top:10px;
-  margin:20px
+  margin:20px;
 }
-.hinx{
-  position: absolute;
-  bottom:0;
-  left：50%
-  margin:0;
-  margin-left:50px;
-  width:100%;
-  font-size:16px;
-  color: #fcf8e3
+.fo{
+  position:absolute;
+  width: 100%;
+  z-index: 2;
+  margin-left: 135px;
+  margin-top: -30px;
+  font-size: 16px;
+  color: #fff;
 }
